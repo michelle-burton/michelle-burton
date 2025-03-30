@@ -18,7 +18,7 @@ Front-End Engineer passionate about creating secure, high-performance web soluti
 ##  📫 How to reach me:
 
 📩 Email: msmichelleburton@yahoo.com<br>
-🔗 LinkedIn: https://www.linkedin.com/in/msmichelleburton/
+🔗 LinkedIn: https://www.linkedin.com/in/msmichelleburton<br>
 🌐 Website:  https://www.michelle-burton.com
  
 <!--
