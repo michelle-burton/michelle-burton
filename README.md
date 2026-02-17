@@ -20,6 +20,8 @@ Front-End Engineer passionate about creating secure, high-performance web soluti
 📩 Email: msmichelleburton@yahoo.com<br>
 🔗 LinkedIn: https://www.linkedin.com/in/msmichelleburton<br>
 🌐 Website:  https://www.michelle-burton.com
+🎥 Quantum AI Design (YouTube): https://www.youtube.com/@yourchannel
+
  
 <!--
 **michelle-burton/michelle-burton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
